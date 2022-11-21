@@ -1,0 +1,227 @@
+@media screen and (max-width: 600px){
+    *{
+        margin: 0 auto;  
+    }
+    
+    .contenedor2{
+        width: 100%;
+        background-color: black;
+        color: aliceblue;
+        /* display: flex;
+        flex-direction: row; */
+     
+    }
+    .titulofooter{
+        height: auto;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: left;
+        padding-bottom: -8px;
+        padding-top: 8px;
+        font-size: 11px;
+    }
+    .titulostore{
+       font-size: 11px;
+        text-align: right;
+        height: auto;
+        padding-bottom: 3px;
+        padding-right: 30px;
+        margin-top: -18px;
+        margin-bottom: 8px;
+    }
+
+    .titulo2footer{
+        height: auto;
+        font-size: 9px;
+    }
+
+    .contenidofooter{
+        position: relative;
+        font-size:7px;
+        padding: 5px;
+    }
+    .contenido2footer{
+        position: relative;
+        font-size:7px;
+    }
+    
+    .logosfooter{
+        height: 18px;
+        float: left;
+        padding: 5px;
+    }
+    .caja1-1footer{
+        width: 50px;
+        height: 100px;
+        float: left;
+        background-color: black;
+    }
+    .caja2footer{
+        width: 50px;
+        height: 100px;
+        float: left;
+        background-color: black;
+
+    }
+    .caja3footer{
+        width: 50px;
+        height: 100px;
+        float: left;
+        padding-right: 6px;
+        background-color: black;
+    }
+   
+    .caja4footer{
+        width: 50px;
+        height: 100px;
+        float: left;
+        padding-right: 1px;
+        background-color: black;
+    }
+    .caja5footer{
+        width: 50px;
+        height: 100px;
+        float: left;
+        padding-right: 1px;
+        background-color: black;
+    }
+    .caja6footer{
+        width: 50px;
+        height: 100px;
+        float: left;
+        padding-right: 2px;
+        padding-left: 2px;
+        background-color: black;
+  
+    }
+    .caja7footer{
+        float: left;
+        width: 201px;
+        background-color: black;
+    }
+    .caja8footer{
+        float: left;
+        background-color: black;
+        width: 127px;
+    }
+
+    }
+
+
+@media screen and (min-width: 600px){
+
+    *{
+       
+        margin: 0 auto;  
+       
+    
+    }
+    
+    .contenedor2{
+        width: 100%;
+        background-color: black;
+        color: aliceblue;
+
+        /* display: flex;
+        flex-direction: row; */
+     
+    }
+    .titulofooter{
+        height: auto;
+        text-align: left;
+        padding-bottom: -8px;
+        padding-top: 10px;
+        font-size: 20px;
+    }
+    .titulostore{
+       font-size: 20px;
+        text-align: center;
+        height: auto;
+        padding-bottom: 3px;
+        padding-left: 120px;
+        margin-top: -44px;
+        margin-bottom: 5px;
+        
+    }
+
+    .titulo2footer{
+        height: auto;
+        font-size: 15px;
+    }
+
+    .contenidofooter{
+        position: relative;
+        font-size:14px;
+        width: 100%;
+    }
+    .contenido2footer{
+        position: relative;
+        font-size:14px;
+    }
+    
+    .logosfooter{
+        height: 35px;
+        float: left;
+        padding: 5px;
+        margin-top: 8px;
+    }
+    .caja1-1footer{
+        width: 188px;
+        height: 170px;
+        float: left;
+        background-color: black;
+        color: aliceblue;
+        
+    }
+    .caja2footer{
+        width: 188px;
+        height: 170px;
+        float: left;
+        background-color: black;
+        color: aliceblue;
+    }
+    .caja3footer{
+        width: 188px;
+        height: 170px;
+        float: left;
+        background-color: black;
+        color: aliceblue;
+    }
+   
+    .caja4footer{
+        width: 188px;
+        height: 170px;
+        float: left;
+        background-color: black;
+        color: aliceblue;
+    }
+    .caja5footer{
+        width: 188px;
+        height: 170px;
+        float: left;
+        background-color: black;
+        color: aliceblue;
+    }
+    .caja6footer{
+        width: 188px;
+        height: 170px;
+        float: left;
+        background-color: black;
+        color: aliceblue;
+  
+    }
+    .caja7footer{
+        float: left;
+        width: 700px;
+        height: 80px;
+        background-color: black;
+        
+    }
+    .caja8footer{
+        float: left;
+        background-color: black;
+        width: 540px;
+        height: 80px;
+        text-align: right;
+        
+    }
+
